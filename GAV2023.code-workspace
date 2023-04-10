@@ -1,0 +1,27 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "github.copilot.advanced": {
+            "enabled": true
+        },
+        "github.copilot.enable": {
+            "*": true,
+            "yaml": false,
+            "plaintext": false,
+            "markdown": true,
+            "scminput": false
+        },
+        "github.copilot.language": "en",
+        "github.copilot.inlineSuggest.enable": true,
+        "github.copilot.inlineSuggest.suggestionCount": 3,
+        "github.copilot.inlineSuggest.suggestionTimeout": 1000,
+        "github.copilot.inlineSuggest.suggestionTrigger": " "
+    },
+    "extensions": {
+        "recommendations": []
+    }
+}
