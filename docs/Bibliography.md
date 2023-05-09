@@ -32,3 +32,4 @@
 - [Getting started with Microsoft Graph - part 2](https://learningbydoing.cloud/blog/getting-started-with-microsoft-graph-part2/)
 - [Getting started with Microsoft Graph - part 3](https://learningbydoing.cloud/blog/getting-started-with-microsoft-graph-part3/)
 - [Getting started with Microsoft Graph - part 4](https://learningbydoing.cloud/blog/getting-started-with-microsoft-graph-part4/)
+- [Unattended authentication against the Microsoft Graph API from PowerShell](http://www.powershell.no/azure,graph,api/2017/10/30/unattended-ms-graph-api-authentication.html)
